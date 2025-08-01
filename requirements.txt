@@ -3,6 +3,6 @@ pandas==1.5.3
 scikit-learn==1.6.1
 scipy==1.15.2
 statsmodels==0.14.4
-streamlit==1.44.1
+streamlit==1.45.1
 tensorflow==2.19.0
-joblib
+joblib==1.4.2
