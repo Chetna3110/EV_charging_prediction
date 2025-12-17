@@ -36,7 +36,7 @@ st.markdown("""
     </div>
 """, unsafe_allow_html=True)
 
-st.image("ev-car-factory.jpg", use_container_width=True)
+st.image("ev-one.jpg", use_container_width=True)
 
 st.markdown("""
     <div style='text-align: left; font-size: 22px; padding-top: 10px; color: #FFFFFF;'>
@@ -231,3 +231,4 @@ else:
 st.success("Forecast complete")
 st.markdown("Prepared for the **AICTE Internship Cycle 2 by Chetna Bharti **")
 st.markdown("Prepared for the **AICTE Internship Cycle 2 by Chetna Bharti **")
+
